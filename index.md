@@ -24,7 +24,7 @@ classes: wide
 <img src="img/constrA.png" alt="Construction" width="200"/>
 </p>
 
-
+&nbsp; &nbsp;
   
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
