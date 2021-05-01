@@ -21,7 +21,7 @@ classes: wide
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA" alt="Construction" width="200"/>
+<img src="img/constrA.png" alt="Construction" width="200"/>
 </p>
 
 
