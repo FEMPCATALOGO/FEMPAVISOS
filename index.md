@@ -29,7 +29,7 @@ classes: wide
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-|  | Innexistente |  |   |   | |  |  |   |   |
+| Sociedad y bienestar | Innexistente |  |   |  Comunicaciones de los ciudadanos. Hay de dos tipos, una que es para indicar un desperfecto en la ciudad, y otro para hacer una sugerencia, queja o reclamación.  | |  |  |   |   |
  
  
   
