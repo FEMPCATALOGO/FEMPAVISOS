@@ -29,7 +29,7 @@ classes: wide
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Sociedad y bienestar | Innexistente |  *[Repositorio](https://github.com/opencitydata/vocab-sociedad-avisos-sugerencias-quejas-reclamaciones)*  | *[Generar Issues](https://github.com/opencitydata/vocab-sociedad-avisos-sugerencias-quejas-reclamaciones/issues)*   |  Comunicaciones de los ciudadanos. Hay de dos tipos, una que es para indicar un desperfecto en la ciudad, y otro para hacer una sugerencia, queja o reclamación.  | |  |  |   |   |
+| Sociedad y bienestar | Inexistente |  *[Repositorio](https://github.com/opencitydata/vocab-sociedad-avisos-sugerencias-quejas-reclamaciones)*  | *[Generar Issues](https://github.com/opencitydata/vocab-sociedad-avisos-sugerencias-quejas-reclamaciones/issues)*   |  Comunicaciones de los ciudadanos. Hay de dos tipos, una que es para indicar un desperfecto en la ciudad, y otro para hacer una sugerencia, queja o reclamación.  | |  |  |   |   |
  
  
   
