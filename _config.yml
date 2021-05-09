@@ -24,9 +24,6 @@ author:
   avatar : "img/avisos.png"
   bio    : " "
   links:
-    - label: "Página web"
-      icon: "fas fa-fw fa-link"
-      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/opencitydata/vocab-sociedad-avisos-sugerencias-quejas-reclamaciones"
